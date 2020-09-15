@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 while :
 do
-	sleep 300
         cd pwd
         echo "hello world" >> text.txt
         git add . && git commit -m "testing first commit"
         git push
+        sleep 300
 done
