@@ -1,5 +1,5 @@
 loop do
-   system('"hello world" >> text.txt')
+   system("echo \"hello world\" >> text.txt")
    lines = File.foreach("commits.txt").count
    num = rand(lines)
    commit = File.foreach("commits.txt").to_a[num]
