@@ -2,7 +2,7 @@ update alternative method
 delete commented code
 update README file
 optimize search method
-this is no the best push in the world, it's just a tribute
+this is no the best push in the world, its just a tribute
 change title
 complete footer
 update API key
