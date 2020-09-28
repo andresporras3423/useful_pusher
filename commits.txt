@@ -3,3 +3,8 @@ delete commented code
 update README file
 optimize search method
 this is no the best push in the world, it's just a tribute
+change title
+complete footer
+update API key
+use recommended RGB standard
+add hoover effect to the header
