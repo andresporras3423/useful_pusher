@@ -8,3 +8,15 @@ complete footer
 update API key
 use recommended RGB standard
 add hoover effect to the header
+remove commented code
+migrate database to MariaDB
+using titlecase for the methods names
+add set up section in the README file
+first set up of the form module
+add non-use modules to .gitignore
+engrypt validation
+using system admin for the register
+add column age to the user model
+remove column lastname from the employee model
+add checkbox to shooce user type
+
