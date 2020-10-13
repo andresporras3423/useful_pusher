@@ -19,4 +19,11 @@ using system admin for the register
 add column age to the user model
 remove column lastname from the employee model
 add checkbox to shooce user type
-
+change submit button color
+add third warning for unsuscribing option
+add fourth warning for unsuscribing option
+add error 404 if user tries to unsuscribe
+change border color in the index page, now orange is the new black
+request user location and send data to chinese government
+call suscribe_again() method inside at the end of user_unsuscribe() method
+remove hover effect in submit button, employees module
